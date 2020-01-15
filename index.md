@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Foal's Blog 
 
-You can use the [editor on GitHub](https://github.com/qianjiajv/qianjiajv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks to see my blog. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My blog is only used to pratice my english writing and write down my daily life. And at the same time, i will share my experience with programming. So, in the index page, i will take a list and range to discriminate my different blogs.
 
-### Markdown
+## Link
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to know more programming details, see my [GitHub](https://github.com/qianjiajv), or my [Gitee](httos://gitee.com/qianjiaju). And you can follow my [zhihu](https://www.zhihu.com/people/da-xiong-di-86-4/activities) or send email to qianjiajuyouxiang@163.com.
 
-```markdown
-Syntax highlighted code block
+## Experience of Programming
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianjiajv/qianjiajv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Dailuy Life
