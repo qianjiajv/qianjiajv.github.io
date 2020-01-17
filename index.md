@@ -6,8 +6,10 @@ My blog is only used to pratice my english writing and write down my daily life.
 
 ## Link
 
-If you want to know more programming details, see my [GitHub](https://github.com/qianjiajv), or my [Gitee](httos://gitee.com/qianjiaju). And you can follow my [zhihu](https://www.zhihu.com/people/da-xiong-di-86-4/activities) or send email to qianjiajuyouxiang@163.com.
+If you want to know more programming details, see my [GitHub](https://github.com/qianjiajv), or my [Gitee](https://gitee.com/qianjiaju). And you can follow my [zhihu](https://www.zhihu.com/people/da-xiong-di-86-4/activities) or send email to qianjiajuyouxiang@163.com.
 
 ## Experience of Programming
 
-## Dailuy Life
+[How to download, intialize and use git](https://github.com/qianjiajv/qianjiajv.github.io/2020/git.md)
+
+## Daily Life
