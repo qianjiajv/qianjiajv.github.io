@@ -6,10 +6,12 @@ My blog is only used to pratice my english writing and write down my daily life.
 
 ## Link
 
-If you want to know more programming details, see my [GitHub](https://github.com/qianjiajv) or my [Gitee](https://gitee.com/qianjiaju). And you can follow my [zhihu](https://www.zhihu.com/people/da-xiong-di-86-4/activities) or send email to qianjiajuyouxiang@163.com.
+If you want to know more programming details, see my [GitHub](https://github.com/qianjiajv) or my [Gitee](https://gitee.com/qianjiaju). And you can follow my [zhihu](https://www.zhihu.com/people/da-xiong-di-86-4/activities).
 
 ## Experience of Programming
 
-[How to download, intialize and use git](https://github.com/qianjiajv/qianjiajv.github.io/blob/master/2020/git.md)
+Whether you are a programmer or not, the Git ant Github is useful for us to hold something in the Internet.[How to download, intialize and use git](https://github.com/qianjiajv/qianjiajv.github.io/blob/master/2020/git.md)
 
 ## Daily Life
+
+It not easy to search someting what we want from the Internet by Baidu or Bing (In zh-cn). In this case, [let's learn some advanced search techniques](https://github.com/qianjiajv/qianjiajv.github.io/blob/master/2020/search.md)
